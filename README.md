@@ -4,6 +4,10 @@
 
 > Simple loading dots for react.
 
+## Demo
+
+Check out the [DEMO](https://toystars.github.io/blinking-ellipsis/).
+
 ## Installation
 ``` bash
 $ npm install blinking-ellipsis
