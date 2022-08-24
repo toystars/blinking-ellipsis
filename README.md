@@ -1,6 +1,6 @@
 # blinking-ellipsis
 
-[![npm](https://img.shields.io/npm/v/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis) [![Downloads](https://img.shields.io/npm/dt/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis) [![Licence](https://img.shields.io/npm/l/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis)
+[![npm](https://img.shields.io/npm/v/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis) [![Downloads](https://img.shields.io/npm/dt/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis)
 
 > Simple loading dots for react.
 

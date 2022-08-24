@@ -37,6 +37,12 @@
   },
   "name": "blinking-ellipsis",
   "author": "Babatunde Mustapha",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toystars/blinking-ellipsis.git"
+  },
+  "homepage": "https://github.com/toystars/blinking-ellipsis#readme",
+  "keywords": ["blinking", "ellipsis"],
   "module": "dist/blinking-ellipsis.esm.js",
   "size-limit": [
     {
