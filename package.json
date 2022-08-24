@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -42,7 +42,10 @@
     "url": "git+https://github.com/toystars/blinking-ellipsis.git"
   },
   "homepage": "https://github.com/toystars/blinking-ellipsis#readme",
-  "keywords": ["blinking", "ellipsis"],
+  "keywords": [
+    "blinking",
+    "ellipsis"
+  ],
   "module": "dist/blinking-ellipsis.esm.js",
   "size-limit": [
     {
